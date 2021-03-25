@@ -11,27 +11,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/YovanggaAnandhika/Petaku)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-
-## Benefit
-
-**Mudah:** Dapat melakukan Pengembangan Multi Project Dengan Layout dan Fungsi Yang Dapat Dipanggil Tanpa Harus Membuat
-Fungsi Mentah Di Dalam Aplikasi.
-
-**Kompabilitas:** Dapat Digunakan Membuat Desktop Apps, Android Apps, dan Web Apps. Dengan 1 Bahasa Program.
-
-**Fleksibel :** Sistem Buka Tutup Fungsi Dalam Memuat Module Yang Dibutuhkan Karna Modul Framework Bersifat Bongkar
-Pasang.
-
-**Cepat :** Mengoptimasi Server Dengan RAM Rendah, dan Gabungan Antar Framework Tercepat, Serta Teknologi Kompressing
-Yang Baik.
-
 ## Feature
 
-* **Terstruktur.** Kode Yang Dapat dengan Mudah Dipahami dan Rapi Serta Dapat Dipanggil Layaknya Seperti Paket Modulasi.
-* **Tanpa Pemblokiran Antarmuka .** Dapat Berjalan Tanpa Mengganggu Fungsi Lainnya.
-* **Dokumentasi Lengkap.** Dokumentasi dan Contoh Kode Yang Lengkap Dan Disertakan.
-* **Terbebas Dari Error.** Terdapat error Deteksi Agar Mencari Error Dapat dengan Mudah Dilakukan.
-* **Tanpa Install WebServer.** Menggunakan Bahasa JS Utama Yang Cocok Dalam Hal Efisiensi Data.
+* **Navigasi Perjalanan.** Petaku Navigasi
+* **Lihat History Perjalanan .** Lihat Riwayat Perjalanan Anda
+* **Tambah, Edit, Lihat Tempat Tempat Menarik.** Bingung Cari Tempat ?, Atau Ingin Menambahkan Bisnis Anda
+* **Lihat Komentar, dan Ulasan.** Tambahkan Ulasan, Ketertarikan dan Ulasan Anda
+* **Peta Offline.** Gunakan Petaku Secara Offline
 * **Lebih Banyak Fitur Lainnya.** 🐈
 
 ### Directory Description
@@ -86,15 +72,15 @@ XML                      4 mins              ░░░░░░░░░░░�
 
 ---
 
-## Installing DKA Framework
+## Installing DKA Petaku
 
 Baca Tentang [Panduan Instalasi](https://dkaresearchcenter.com/en/docs/install) Pada Website Kami Untuk Info Lebih Lengkap.
 
-## Penggunaan DKA Framework
+## Penggunaan DKA Petaku
 
 Baca Tentang [Cara Penggunaan](https://dkaresearchcenter.com/en/docs/usage) Untuk Detail Cara Penggunaan.
 
-## Kontribusi Ke DKA Framework
+## Kontribusi Ke DKA Petaku
 
 Kami Selalu Siap Untuk Melakukan Kontribusi Dan Berbagi Dalam Pengembangan [RFC](https://github.com/yarnpkg/rfcs).
 Sebelum Berkontribusi Harap Baca [code of conduct](CODE_OF_CONDUCT.md).
